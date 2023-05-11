@@ -10,3 +10,6 @@
 # HISTORIA DE USUARIO
 ![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/aae1fafc-bfa9-46ea-9ca8-21f442dc2098)
 
+# Casos de uso
+
+
