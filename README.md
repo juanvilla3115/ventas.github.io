@@ -12,4 +12,7 @@
 
 # Casos de uso
 
+![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/359da29f-b8c8-44f2-a75f-43a9efc1bc23)
+
+#  Aproximacio diagrama de flujo          
 
