@@ -1,11 +1,15 @@
 # PROMEDIO DE VENTAS SUPERMERCADO
 
 ### En su labor como programador de software ha sido elegido para el desarrollo de una aplicación que
-### necesita la gerencia de un supermercado, que desea calcular el promedio ventas de determinado producto
-### para saber si el producto tiene buena rotacion o por le contrario necesita dejar de venderlo
-### y que ademas arroje un porcentaje de rentabilidad para conocer su viabilidad.
-### Como información básica de cada producto  se debe registrar el tipo de producto, su nombre y el codigo de barras.
+### necesita la gerencia de un supermercado, que desea calcular el promedio ventas de determinado cajero en una caja especifica
+### para saber si el cajero tiene una venta rentable en un su turno de trabajo
+### y que ademas se pueda conocer el promedio de ventas totales de todo el almacen en un horario de trabajo de terminado.
+### Como información básica de cada cajero  se debe registrar el numero de identificacion , su nombre, el numero de caja, y el valor de las ventas.
 ## Aclaraciones:
+
+### * se supondra que la aplicacion solo se requiere para calcular el promedio de un unico periodo de ventas en especifico 
+### * para efectos de mantener la simplicidad no se contempla manejar persistencia en el almacenamiento de los datos 
+### * No se realiza validacion, ni se verifica calidad en los datos ingresados.
 
 # HISTORIA DE USUARIO
 ![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/aae1fafc-bfa9-46ea-9ca8-21f442dc2098)
