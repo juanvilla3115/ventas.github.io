@@ -15,4 +15,8 @@
 ![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/359da29f-b8c8-44f2-a75f-43a9efc1bc23)
 
 #  Aproximacio diagrama de flujo          
+![dfd ventas 2023](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/ea7edf00-c295-468b-bf03-4032e438b378)
 
+# aproximacion de seudocodigo 
+
+![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/7528b99b-abf0-4349-8ec5-b3ec8c644347)
