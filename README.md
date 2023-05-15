@@ -24,3 +24,25 @@
 # aproximacion de seudocodigo 
 
 ![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/7528b99b-abf0-4349-8ec5-b3ec8c644347)
+
+# PromVentas Estructurado
+![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/55a9c84b-11be-4ead-b2c7-43bdeedc56fe)
+ # PromVentas Estructurado java
+![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/38c74b6c-fe54-4e4c-8319-fd2f6f97a9b9)
+![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/aa8b831b-cd90-4d79-ae84-6ab3dc562e13)
+![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/05fa7ec3-05c2-470d-a1e1-e3c25e2b5743)
+
+
+
+# Ventas POO java
+![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/3ab28466-1a15-4f07-937f-e9b1d8fc27c4)
+![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/ef3e6539-37cc-4b1c-b85b-f54888c48a0f)
+
+# Ventas 
+![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/98cafb5b-a429-4086-868d-6c10e3849c6e)
+![image](https://github.com/juanvilla3115/ventas.github.io/assets/132967870/de4e5243-2da7-42a1-b40f-dbbb752cfe9e)
+
+
+
+
+ 
